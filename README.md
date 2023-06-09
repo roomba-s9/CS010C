@@ -1,1 +1,3 @@
-Spring 2023 CS010C: Introduction to Data Structures and Algorithms
+SPRING 2023 CS010C: INTRODUCTION TO DATA STRUCTURES AND ALGORITHMS
+
+Grade Recieved: N/A
